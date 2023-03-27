@@ -1,0 +1,25 @@
+.header {
+  padding: 15px 30px;
+  display: flex;
+  gap: 20px;
+  background-color: #69709c;
+  box-shadow: 0 0 10px 4px hsl(0deg 0% 38% / 75%);
+}
+
+.link {
+  font-size: 700;
+  display: flex;
+  font-size: 20px;
+  font-weight: 700;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.link:hover,
+.link:focus {
+  color: palevioletred;
+}
+
+.link:active {
+  color: palevioletred;
+}

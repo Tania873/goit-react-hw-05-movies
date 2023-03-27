@@ -1,0 +1,29 @@
+.container {
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+.title {
+  margin: 20px 0;
+  font-size: 36px;
+}
+
+.moviesList {
+  margin: 0;
+  padding: 0 20px;
+}
+
+.moviesItem {
+  color: blue;
+  font-size: 20px;
+}
+
+.moviesLink {
+  color: inherit;
+  text-decoration: none;
+}
+
+.moviesLink:hover,
+.moviesLink:focus {
+  color: palevioletred;
+}
